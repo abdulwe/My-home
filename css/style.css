@@ -31,6 +31,11 @@ body {
   padding: 10px;
   margin: 0 auto;
 }
+.top-sect{
+  background:#036651 url(../img/tech3.jpg) no-repeat center center/cover ;
+  height: 100vh;
+  color: #fff;
+}
 
 .col {
   color: #11aa44;
@@ -78,7 +83,7 @@ body {
 }
 
 .social {
-  color: #0eec7d;
+  color: #f08b06c9;
   margin-left: 50px;
   position: stactc
   ;
@@ -89,7 +94,7 @@ body {
 
 .word {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 30px;
 
   color: #fff;
 }
@@ -166,7 +171,7 @@ a {
 }
 
 .grid {
-  margin-top: 5%;
+  margin-top: 20%;
   margin-left: 22%;
   display: grid;
   grid-template-columns: 2fr 2fr 2fr;
