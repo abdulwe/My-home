@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #036651;
+  /* background: #036651; */
   max-width: 1500px;
 
   opacity: 0.9;
@@ -35,6 +35,9 @@ body {
   background:#036651 url(../img/tech3.jpg) no-repeat center center/cover ;
   height: 100vh;
   color: #fff;
+}
+.about-sect{
+  background: #036651;
 }
 
 .col {
@@ -325,4 +328,9 @@ a {
 }
 .grid-2 .part-1 h4 i {
   color: aqua;
+}
+footer{
+  background: #09352b;
+  color:#fff ;
+  text-align: center;
 }
